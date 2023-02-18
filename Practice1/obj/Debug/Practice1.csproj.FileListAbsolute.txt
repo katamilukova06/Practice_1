@@ -1,0 +1,8 @@
+D:\Основы программирования\GitHub Project\Project-2\Project-2\Practice1\bin\Debug\Practice1.exe.config
+D:\Основы программирования\GitHub Project\Project-2\Project-2\Practice1\bin\Debug\Practice1.exe
+D:\Основы программирования\GitHub Project\Project-2\Project-2\Practice1\bin\Debug\Practice1.pdb
+D:\Основы программирования\GitHub Project\Project-2\Project-2\Practice1\obj\Debug\Practice1.csproj.AssemblyReference.cache
+D:\Основы программирования\GitHub Project\Project-2\Project-2\Practice1\obj\Debug\Practice1.csproj.SuggestedBindingRedirects.cache
+D:\Основы программирования\GitHub Project\Project-2\Project-2\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+D:\Основы программирования\GitHub Project\Project-2\Project-2\Practice1\obj\Debug\Practice1.exe
+D:\Основы программирования\GitHub Project\Project-2\Project-2\Practice1\obj\Debug\Practice1.pdb
